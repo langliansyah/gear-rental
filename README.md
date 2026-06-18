@@ -63,12 +63,12 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 tolong baca ini dengan teliti dan seksama sebelum clone, dan menjalankan projek yang tim kami buat 
 
 
-📦 CARA INSTALL PROJECT SURVEYSWAP
+📦 CARA INSTALL PROJECT GEAR-RENTAL
 
-1. Extract ZIP ke C:\laragon\www\wp2_laravel atau clone jika menggunakan github
+1. Extract ZIP ke C:\laragon\www\gear-rental atau clone jika menggunakan github
 
 2. Buka Terminal Laragon, lalu:
-   cd C:\laragon\www\wp2_laravel
+   cd C:\laragon\www\gear-rental
 
 3. Install vendor:
    composer install
@@ -79,10 +79,10 @@ tolong baca ini dengan teliti dan seksama sebelum clone, dan menjalankan projek 
 5. Generate key:
    php artisan key:generate
 
-6. Buat database di phpMyAdmin (nama: wp2_laravel)
+6. Buat database di phpMyAdmin (nama: pendakian_db)
 
 7. Edit .env, sesuaikan database:
-   DB_DATABASE=
+   DB_DATABASE=pendakian_db
    DB_USERNAME=root
    DB_PASSWORD=
 
