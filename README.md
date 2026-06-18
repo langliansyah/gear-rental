@@ -82,7 +82,7 @@ tolong baca ini dengan teliti dan seksama sebelum clone, dan menjalankan projek 
 6. Buat database di phpMyAdmin (nama: wp2_laravel)
 
 7. Edit .env, sesuaikan database:
-   DB_DATABASE=wp2_laravel
+   DB_DATABASE=
    DB_USERNAME=root
    DB_PASSWORD=
 
